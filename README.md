@@ -1,0 +1,2 @@
+# Aircraft-Damage-Classification-and-Captioning-Using-Pretrained-Deep-Learning-Models
+Aircraft damage inspection is a critical task for ensuring flight safety and maintaining aircraft structural integrity. Traditional manual inspection methods are time-consuming, costly, and susceptible to human error. This project presents an automated deep learning approach to classify  damage and generate descriptive captions for damaged  images.
